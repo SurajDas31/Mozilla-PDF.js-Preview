@@ -6,4 +6,4 @@ Java 1.8 or greater
 
 # Use
 Download this repository. Open with maven project and run this Spring boot application.
-In Browser hit localhost:9099
+In Browser, hit localhost:9099
